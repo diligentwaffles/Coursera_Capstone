@@ -1,3 +1,5 @@
-The objective will be exploring what city in California would be best to start a business in hair cutting/styling industry.
+The objective will be exploring what city in California would be best to start a business in hair cutting/styling industry. In this notebook we will identify the best prices and ratings of four different cities in California: Sacramento, San Diego, Los Angeles, San Francisco. This information with be extracted from FourSquare and Google places.
 
 This information would be helpful to almost anyone, since almost everyone gets haircuts or styled hair.  On the same token this is an industry that is also highly competitive in some cities while other may seem that there is not enough options to choose from. So we will be looking at what cities have the most options for customers and the least options for potential new businesses to capture that location's business or even freelance stylists to enter the market.
+
+Here, we'll identify places that are fit for various individuals based on the information collected from the two APIs and Data Science. Once we have the plot with the venues, any company can launch an application using the same data and suggest users such information.

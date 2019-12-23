@@ -1,11 +1,11 @@
 DATA
 Data source will be from FourSquare explore API and Google Places API. It will consist of the following features:
-	• Will be focused on four major cities: Sacramento, San Francisco, Los Angeles, San Diego
-	• Location data to show quantity of salons/barbershops per city
-		○ To compare cities, the quantity of business will be expressed as "per capita". To show the concentration of salons/babershops to show which cities are in need of a salon/babershop or are over-saturated
+	• Will be focused on Sacramento
+	• Location data to show quantity of salons/barbershops
+		○ For Comparison, the quantity of business will be expressed as "per capita". To show the concentration of salons/babershops to show which cities are in need of a salon/babershop or are over-saturated
 	• Services available
-		○ This information will be used to inform potential businesses of what services of the market are needed in this city or to show potential customers what cities have the service(s) that interest them.  
-	• Average price per city
-		○ This can show potential businesses the current market price of that city to under-cut the market to stay competitive and build a client base. This will inform potential customers of potential savings by traveling to a nearby city.
-	• Average ratings per city
-		○ This will show potential businesses that it a city has bad reviews that they might be able to provide services with better customer service to capture this potential market.
+		○ This information will be used to inform potential businesses of what services of the market are needed in this city or to show potential customers what service(s) that interest them.  
+	• Average price 
+		○ This can show potential businesses the current market price to under-cut the market to stay competitive and build a client base. This will inform potential customers of potential savings by traveling to a nearby city.
+	• Average ratings
+		○ This will show potential businesses that it has bad reviews that they might be able to provide services with better customer service to capture this potential market.

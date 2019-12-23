@@ -1,5 +1,5 @@
 DATA
-Data source will be from FourSquare explore API and Google Places API. It will consist of the following:
+Data source will be from FourSquare explore API and Google Places API. It will consist of the following features:
 	• Will be focused on four major cities: Sacramento, San Francisco, Los Angeles, San Diego
 	• Location data to show quantity of salons/barbershops per city
 		○ To compare cities, the quantity of business will be expressed as "per capita". To show the concentration of salons/babershops to show which cities are in need of a salon/babershop or are over-saturated
